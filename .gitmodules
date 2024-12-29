@@ -1,3 +1,6 @@
 [submodule "3d-files/chassis"]
 	path = 3d-files/chassis
 	url = https://github.com/nkruzan/hoverbot-chassis.git
+[submodule "software/ardupilot"]
+	path = software/ardupilot
+	url = https://github.com/nkruzan/ardupilot.git
